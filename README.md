@@ -1,7 +1,7 @@
 <h1 align="center">Hello Everyone 👋, I'm Mohan Karthikeyan</h1>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Mohankarthikeyan7/Mohankarthikeyan7/main/Mohan-banner.png" alt="Mohan Karthikeyan"/>
+  <img src="https://raw.githubusercontent.com/Mohankarthikeyan7/Mohankarthikeyan7/main/Mohan banner.png" alt="Mohan Karthikeyan"/>
 </div>
 
 <h3 align="center">🚀 A DevOps enthusiast on a relentless journey to automate, innovate, and optimize! With every project, I push boundaries to make systems smarter, faster, and more reliable. </h3>
