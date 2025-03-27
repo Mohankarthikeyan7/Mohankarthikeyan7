@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **Python**
 - 💞️ I’m looking to collaborate on **DevOps projects**
 - 📫 How to reach me **mohankarthick52@gmail.com**
-- ⚡ Fun Fact: **I believe in making the impossible, possible!**
+- ⚡ Fact: **I believe in making the impossible, possible!**
 - 💼 Offering **DevOps Consulting / Mentorship**
 
 > *"Helping people crack DevOps with real-world knowledge. Let’s build and automate the future, one pipeline at a time!"*
